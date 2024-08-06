@@ -1,0 +1,3 @@
+Nguyen Van A,0123456789,2,3,Phim A,Phong 1,Xuat 1,0
+Tran Thi B,0987654321,1,2,Phim B,Phong 2,Xuat 2,0
+Le Van C,0123987654,4,1,Phim A,Phong 1,Xuat 3,0
